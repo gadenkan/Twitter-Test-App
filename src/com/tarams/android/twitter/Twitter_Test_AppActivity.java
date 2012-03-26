@@ -31,8 +31,8 @@ public class Twitter_Test_AppActivity extends Activity {
 
 	
 	
-	private static final String CONSUMER_KEY = "a8UznxVbRZsdUUqK4oFMg";
-	private static final String CONSUMER_SECRET = "m6Y3GRjwPjpxvuujipxP3wGT3BzKmcNvTDlosP8HI";
+	private static final String CONSUMER_KEY = "<Your_Consumer_Key>";
+	private static final String CONSUMER_SECRET = "<Your_Consumer_Sceret>";
 	private static final String CALLBACK_SCHEME = "twitter-OAUTH-test-app";
 	private static final String CALLBACK_URL = CALLBACK_SCHEME + "://callback";
 	private static final String TWITTER_USER = "androidtestacc1@gmail.com";
